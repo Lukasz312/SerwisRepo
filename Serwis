@@ -1,0 +1,27 @@
+using System.Collections.Generic;
+
+namespace SerwisKomputerowy
+{
+    class Serwis
+    {
+        private List<Serwisant> ListaSerwisantow;
+        private List<Klient> ListaKlientow;
+        private List<Urzadzenie> ListaUrzadzen;
+        public void DodajSerwisanta(Serwisant serwisant)
+        {
+
+        }
+        public void DodajKlienta(Klient klient)
+        {
+
+        }
+        public void PrzyjmijSprzet(Urzadzenie urzadzenie)
+        {
+
+        }
+        public void PrzydzielSerwisanta(Urzadzenie urzadzenie)
+        {
+
+        }
+    }
+}
