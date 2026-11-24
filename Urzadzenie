@@ -1,0 +1,17 @@
+using System;
+
+namespace SerwisKomputerowy
+{
+    abstract class Urzadzenie
+    {
+        protected string Typ;
+        protected string Nazwa;
+        protected Klient Wlasciciel;
+        protected double KosztNaprawy;
+        protected DateTime DataPrzyjecia;
+        protected DateTime DataNaprawy;
+        protected string CzesciDoNaprawy;
+        public bool CzyNaprawione;
+        protected Serwisant PrzypisanySerwisant;
+    }
+}
