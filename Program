@@ -1,0 +1,12 @@
+using System;
+
+namespace SerwisKomputerowy
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
