@@ -1,0 +1,7 @@
+namespace SerwisKomputerowy
+{
+    class Drukarka : Urzadzenie
+    {
+        protected string RodzajDrukarki;
+    }
+}
