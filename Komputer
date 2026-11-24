@@ -1,0 +1,7 @@
+namespace SerwisKomputerowy
+{
+    class Komputer : Urzadzenie
+    {
+        protected string Rodzaj;
+    }
+}
