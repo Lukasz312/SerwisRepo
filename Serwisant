@@ -1,0 +1,19 @@
+using System.Collections.Generic;
+
+namespace SerwisKomputerowy
+{
+    class Serwisant
+    {
+        private string Imie;
+        private string Nazwisko;
+        private List<string> Kwalifikacje;
+        public Serwisant(string imie, string nazwisko, List<string> kwalifikacje)
+        {
+
+        }
+        public bool CzyMaKwalifikacje(string typUrzadzenia)
+        {
+            return false;
+        }
+    }
+}
