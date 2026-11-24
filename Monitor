@@ -1,0 +1,7 @@
+namespace SerwisKomputerowy
+{
+    class Monitor : Urzadzenie
+    {
+        protected string Wielkosc;
+    }
+}
