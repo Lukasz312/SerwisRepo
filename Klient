@@ -1,0 +1,12 @@
+namespace SerwisKomputerowy
+{
+    class Klient
+    {
+        private string Imie;
+        private string Nazwisko;
+        public Klient(string imie, string nazwisko)
+        {
+
+        }
+    }
+}
