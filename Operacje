@@ -1,0 +1,20 @@
+using System.Collections.Generic;
+
+namespace SerwisKomputerowy
+{
+    class Operacje
+    {
+        public void Napraw(Urzadzenie urzadzenie)
+        {
+
+        }
+        public void ZapiszDoPliku(List<Urzadzenie> listaUrzadzen, string sciezkaPliku)
+        {
+
+        }
+        public void WyszukajwPliku(string sciezkaPliku)
+        {
+
+        }
+    }
+}
